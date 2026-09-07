@@ -70,7 +70,7 @@ Currently working on:
 
 ---
 
-## Previous Projects
+## Personal Projects
 
 <table>
 <tr>
