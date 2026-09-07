@@ -213,20 +213,22 @@ and visually distinct web experiences.
 
 ## GitHub Signals
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rico-proxy&theme=tokyonight"
-  width="100%"
-  alt="Rico GitHub profile details"
-/>
-
-<p>
+<p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rico-proxy&theme=tokyonight"
-    alt="Rico GitHub stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rico-proxy&theme=tokyonight&title_color=00e87a&text_color=ffffff&icon_color=00e87a&chart_color=00e87a"
+    width="100%"
+    alt="Rico GitHub profile details"
   />
+</p>
 
+<p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rico-proxy&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rico-proxy&theme=tokyonight&title_color=00e87a&text_color=ffffff&icon_color=00e87a&chart_color=00e87a"
+    width="49%"
+    alt="Rico GitHub stats"
+  /><img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rico-proxy&theme=tokyonight&title_color=00e87a&text_color=ffffff&icon_color=00e87a&chart_color=00e87a"
+    width="49%"
     alt="Rico repositories per language"
   />
 </p>
@@ -235,10 +237,13 @@ and visually distinct web experiences.
 
 ## Contribution Streak
 
-<img
-  src="https://streak-stats.demolab.com?user=Rico-proxy&theme=tokyonight&hide_border=true"
-  alt="Rico GitHub streak"
-/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Rico-proxy&hide_border=true&background=1A1B27&ring=00E87A&fire=00E87A&currStreakLabel=00E87A&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    width="100%"
+    alt="Rico GitHub contribution streak"
+  />
+</p>
 
 ---
 
