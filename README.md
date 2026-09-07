@@ -1,70 +1,208 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e87a&height=240&section=header&text=Rico&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Frontend%20Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Rico banner"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=00e87a&height=240&section=header&text=Rico&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Frontend%20Engineer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2"
+    width="100%"
+    alt="Rico banner"
+  />
 </div>
 
-## Rico
+# Rico
 
-**Frontend Developer**
+**Frontend Engineer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00e87a&center=true&vCenter=true&width=640&lines=Building%20fast%2C%20expressive%20interfaces%20that%20feel%20intentional.;Turning%20ideas%20into%20distinct%2C%20interactive%20web%20experiences.;Always%20learning%2C%20refining%2C%20and%20finding%20a%20way%20to%20make%20it%20work.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00e87a&width=700&lines=Building+fast%2C+expressive+interfaces+that+feel+intentional.;Turning+ideas+into+distinct%2C+interactive+web+experiences.;Always+learning%2C+refining%2C+and+finding+a+way+to+make+it+work.)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:richardoahimire@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-ricodxd.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:richardoahimire@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00e87a?style=flat-square&logo=googlechrome&logoColor=black)](https://portfolio-ricodxd.vercel.app/)
 
-![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-00e87a?style=flat-square) [![Building -&gt; Mystar Workspace](https://img.shields.io/badge/Building%20-%3E%20Mystar%20Workspace-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/StellaMarisSchools/SMSWEBSITE-CMS)
+![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-00e87a?style=flat-square)
 
-I’m a frontend engineer who loves building clean, fast, and responsive web interfaces. I enjoy turning ideas into polished, interactive experiences that feel intentional across both desktop and mobile. I’m constantly improving how I write and structure my code, always learning, and always looking for better ways to build. I’m especially drawn to interfaces with a distinct visual identity — UI that feels different, memorable, and thoughtfully designed.
+---
 
-> Building something interesting? Let's connect: https://portfolio-ricodxd.vercel.app/
+## About Me
+
+I’m a frontend engineer who loves building clean, fast, and responsive web interfaces.
+
+I enjoy turning ideas into polished, interactive experiences that feel intentional across both desktop and mobile. I’m constantly improving how I write and structure my code, always learning, and always looking for better ways to build.
+
+I’m especially drawn to interfaces with a **distinct visual identity** — UI that feels different, memorable, and thoughtfully designed.
+
+> Building something interesting? [Let's connect.](https://portfolio-ricodxd.vercel.app/)
+
+---
 
 ## Snapshot
 
-- ⌖ **Location** · Abuja, Nigeria
-- ⌗ **Experience** · 5+
-- ⟳ **Learning** · Node.js and exploring WebGL animations to create more immersive and interactive web experiences.
+- 📍 **Location** · Abuja, Nigeria
+- 💻 **Role** · Frontend Engineer
+- 🧠 **Currently learning** · Node.js
+- 🌐 **Exploring** · WebGL animations and immersive web experiences
+- 🎨 **UI philosophy** · Distinct, expressive, responsive, intentional
 
-## Featured Projects
+---
 
-- [The Merger](https://the-merger-ashy.vercel.app/) — A marriage themed abulm website for groom and bride
+## Currently Building
 
-- [Banks](https://banks-portfolio-new.vercel.app/) — Visual Artiste Portfolio
+[![Building - Mystar Workspace](https://img.shields.io/badge/Building-Mystar%20Workspace-00e87a?style=for-the-badge&logo=github&logoColor=black)](https://github.com/StellaMarisSchools/SMSWEBSITE-CMS)
 
-- [Incasa](https://incasa-gray.vercel.app/) — Architectural Firm Portfolio
+Currently working on:
+
+- **MyStar CMS**
+- **Stafii**
+- **SMSAbuja**
+
+> These are organization projects developed through a separate private work GitHub account, so some of that activity is not reflected on this profile.
+
+---
+
+## Previous Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://banks-portfolio-new.vercel.app/">
+        <img src="./assets/projects/banks.jpg" width="100%" alt="Banks — Visual Artist Portfolio" />
+      </a>
+      <h3>🎨 Banks</h3>
+      <p>
+        A visual artist portfolio built around bold typography, expressive layouts,
+        and an artwork-first presentation.
+      </p>
+      <p>
+        <a href="https://banks-portfolio-new.vercel.app/"><b>View Project ↗</b></a>
+      </p>
+    </td>
+
+    <td width="50%" valign="top">
+      <a href="https://the-merger-ashy.vercel.app/">
+        <img src="./assets/projects/the-merger.jpg" width="100%" alt="The Merger — Wedding Website" />
+      </a>
+      <h3>💍 The Merger</h3>
+      <p>
+        A playful wedding experience that gives the bride and groom their own
+        distinct worlds before bringing both sides together.
+      </p>
+      <p>
+        <a href="https://the-merger-ashy.vercel.app/"><b>View Project ↗</b></a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://incasa-gray.vercel.app/">
+        <img src="./assets/projects/incasa.jpg" width="100%" alt="INCASA — Architecture Portfolio" />
+      </a>
+      <h3>🏛️ INCASA</h3>
+      <p>
+        An architectural studio portfolio with a restrained editorial layout,
+        strong imagery, and a quiet luxury visual direction.
+      </p>
+      <p>
+        <a href="https://incasa-gray.vercel.app/"><b>View Project ↗</b></a>
+      </p>
+    </td>
+
+    <td width="50%" valign="top">
+      <a href="https://resource-library-with-superbase-aut.vercel.app/">
+        <img src="./assets/projects/resource-library.jpg" width="100%" alt="Resource Library" />
+      </a>
+      <h3>📚 Resource Library</h3>
+      <p>
+        A student resource platform for uploading, discovering, organizing,
+        and accessing PDFs and study materials.
+      </p>
+      <p>
+        <a href="https://resource-library-with-superbase-aut.vercel.app/"><b>View Project ↗</b></a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://portfolio-ricodxd.vercel.app/">
+        <img src="./assets/projects/portfolio.jpg" width="100%" alt="Rico — Personal Portfolio" />
+      </a>
+      <h3>⚡ Personal Portfolio</h3>
+      <p>
+        My personal frontend portfolio — a collection of projects, interface
+        experiments, and visually distinct web experiences.
+      </p>
+      <p>
+        <a href="https://portfolio-ricodxd.vercel.app/"><b>Explore Portfolio ↗</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## Tools I Reach For
 
-**Languages**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=ts,html,css,js&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" alt="Languages" />
 
-**Frontend**
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap&theme=dark" alt="Frontend technologies" />
 
-**Backend & Databases**
+### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=firebase,supabase&theme=dark" alt="Backend & Databases"/>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase&theme=dark" alt="Backend technologies" />
 
-**DevOps & Cloud**
+### Tools
 
-<img src="https://skillicons.dev/icons?i=figma,vercel,git,vscode&theme=dark" alt="DevOps & Cloud"/>
+<img src="https://skillicons.dev/icons?i=figma,vercel,git,github,vscode&theme=dark" alt="Development tools" />
 
-## Languages
-- 🇬🇧 **English** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
+### UI Libraries
+
+`shadcn/ui` · `Magic UI` · `Aceternity UI`
+
+---
 
 ## GitHub Signals
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=https%3A%2F%2Fgithub.com%2FRico-proxy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Rico stats"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rico-proxy&theme=tokyonight"
+  width="100%"
+  alt="Rico GitHub profile details"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https%3A%2F%2Fgithub.com%2FRico-proxy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Rico top languages"/>
+<p>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rico-proxy&theme=tokyonight"
+    alt="Rico GitHub stats"
+  />
 
-## Extras
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rico-proxy&theme=tokyonight"
+    alt="Rico repositories per language"
+  />
+</p>
 
-### Activity
+---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=https%3A%2F%2Fgithub.com%2FRico-proxy&theme=tokyo-night&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=https%3A%2F%2Fgithub.com%2FRico-proxy&theme=tokyo-night&hide_border=true&area=true)
+## Contribution Streak
+
+<img
+  src="https://streak-stats.demolab.com?user=Rico-proxy&theme=tokyonight&hide_border=true"
+  alt="Rico GitHub streak"
+/>
+
+---
+
+## Find Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00e87a?style=for-the-badge&logo=googlechrome&logoColor=black)](https://portfolio-ricodxd.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richardoahimire@gmail.com)
+
+---
 
 <div align="center">
 
-<sub>[Open ReadmeForge](https://lebedevnet.github.io/ReadmeForge/) · [Get in touch](https://portfolio-ricodxd.vercel.app/)</sub>
+### `build → refine → make it distinct`
+
+<sub>Frontend Engineer · React · TypeScript · Creative UI</sub>
 
 </div>
